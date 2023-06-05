@@ -81,6 +81,7 @@ input[type="submit"] {
 #email {
   margin-top: 10px;
   margin-bottom: 20px;
+  cursor: pointer;
 }
 
 .bullet-list {
@@ -116,6 +117,7 @@ input[type="submit"] {
   background-color: hsl(234, 29%, 20%);
   color: white;
   border: 0;
+  cursor: pointer;
 }
 
 #btn:hover {
@@ -163,6 +165,7 @@ input[type="submit"] {
   border-radius: 10px;
   border: 0;
   font-size: 15px;
+  cursor: pointer;
 }
 
 #btn2:hover {
