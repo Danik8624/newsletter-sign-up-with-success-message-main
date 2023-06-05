@@ -100,7 +100,7 @@ input[type="submit"] {
   display: inline-block;
   width: 20px; /* Adjust the size of the SVG as needed */
   height: 20px;
-  background-image: url(/assets/images/icon-success.svg); /* Replace with the URL or path to your SVG image */
+  background-image: url(../assets/images/icon-success.svg); /* Replace with the URL or path to your SVG image */
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 10px; /* Adjust the spacing between SVG and text as needed */
